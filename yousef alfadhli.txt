@@ -1,0 +1,2 @@
+I,m yousef alfadhli a student in year 11, studying in the english school of fahaheel.
+I chose the android path because based on the reading i did about android development i found that it has many options and that java can be a good starting point for learning new coding languages 
